@@ -8,9 +8,9 @@ Create file .env ([example](https://github.com/anderson-sfoliveira/teste-dotenv/
 
 ## How add [dotenv](https://www.npmjs.com/package/dotenv)
 
-Delete files environment*.ts of the source code;
+Delete files environment*.ts of the source code
 
-Add environment*.ts in the [.gitignore](https://github.com/anderson-sfoliveira/teste-dotenv/blob/main/.gitignore);
+Add environment*.ts in the [.gitignore](https://github.com/anderson-sfoliveira/teste-dotenv/blob/main/.gitignore)
 
 Install package [dotenv](https://www.npmjs.com/package/dotenv)
 
