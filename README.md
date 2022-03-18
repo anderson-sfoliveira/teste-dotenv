@@ -9,4 +9,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## How add [dotenv](https://www.npmjs.com/package/dotenv)
 
 Delete files environment*.ts of the source code;
+
 Add environment*.ts in the .gitignore;
+
