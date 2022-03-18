@@ -12,3 +12,6 @@ Delete files environment*.ts of the source code;
 
 Add environment*.ts in the .gitignore;
 
+Install package [dotenv](https://www.npmjs.com/package/dotenv)
+
+    npm i dotenv
