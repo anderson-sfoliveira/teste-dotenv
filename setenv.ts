@@ -16,7 +16,7 @@ const targetPath = isProduction
 const environmentFileContent = `
 export const environment = {
    production: ${isProduction},
-   titleApp: "${process.env.VAR_TITLE}"
+   titleApp: "${process.env.titleApp}"
 };
 `;
 
